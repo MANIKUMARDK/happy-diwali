@@ -1,5 +1,5 @@
 import React from 'react';
-import Fireworks from './components/Fireworks';
+import Fireworks from './Fireworks';
 
 const App: React.FC = () => {
   return (
